@@ -1,7 +1,7 @@
 {
   "name": "quintolin/storage",
   "description": "Storage implementation for Quintolin game",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "type": "library",
   "keywords": [
     "quintolin",
@@ -23,13 +23,13 @@
   },
   "require": {
     "php": "^8.3",
-    "quintolin/core": "^0.0.2"
+    "quintolin/core": "^0.0.3"
   },
   "require-dev": {
     "quintolin/coding-standard": "^1.0"
   },
   "provide": {
-    "quintolin/storage-implementation": "^0.0.2"
+    "quintolin/storage-implementation": "^0.0.3"
   },
   "autoload": {
     "psr-4": {
